@@ -14,9 +14,11 @@ mongo db password
 username - aryan
 password - aryan
 
-git init
+
+echo "# mern-authetication" >> README.md
+  git init
   git add README.md
   git commit -m "first commit"
   git branch -M main
-  git remote add origin https://github.com/Ryaaan4321/mern-authentication.git
+  git remote add origin https://github.com/Viv765/mern-authetication.git
   git push -u origin main
